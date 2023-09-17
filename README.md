@@ -1,5 +1,5 @@
 # SENTIMENT ANALYSIS :GOOGLE AND APPLE
-
+[Presentation link](https://docs.google.com/presentation/d/16Fm9dSCugHTrsbJ6nj0aO-Sj6K0x0z2g9UWyxks_eVI/edit?usp=sharing)
 ## Business understanding
 
 Google and Apple are multinational techonology companies well known for their products such as google sheets (from Google) and iPhone (from Apple).The companies have come up with ways to get their customer feedback such as,in app user feedback and rating, getting the tweets from Twitter(now X),among many others. However,since the companies are multinational it can be really difficult and tiresome to read through the millions of feedback or tweets from multiple apps in order to get the customers' view or sentiment about a product.As a result,the companies want to build a model that can rate the sentiment of a tweet or text based on its content.This will enable the companies to make improvements on their products or services to improve customer satisfaction and even attract more customers.
